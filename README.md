@@ -1,6 +1,6 @@
 ### I'm Lucas de Araújo Silva 👋
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/lucasDeAraujoSilva)](https://github.com/lucasDeAraujoSilva)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/silvalucasaraujo/)](https://www.linkedin.com/in/lucasDeAraujoSilva/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/silvalucasaraujo/)](https://www.linkedin.com/in/silvalucasaraujo/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/lvcas.araujo?utm_medium=copy_link/)](https://instagram.com/lvcas.araujo?utm_medium=copy_link/)
 
 - 👩‍🏭 Management student
